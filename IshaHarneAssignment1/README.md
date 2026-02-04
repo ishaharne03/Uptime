@@ -33,7 +33,7 @@ D:\IshaHarneAssignments\IshaHarneAssignment1
 ### 1. Navigate to Project Directory
 
 ```bash
-cd "/IshaHarneAssignment1"
+cd /IshaHarneAssignment1
 ```
 
 ### 2. Compile the Project
