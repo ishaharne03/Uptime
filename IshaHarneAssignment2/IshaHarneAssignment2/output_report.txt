@@ -1,0 +1,56 @@
+============================================================
+           TEXT DOCUMENT ANALYSIS REPORT
+============================================================
+
+Source File: sample_text.txt
+
+----------------------------------------
+BASIC STATISTICS
+----------------------------------------
+Total Word Count:      576
+Unique Word Count:     374
+Average Word Length:   7.73 characters
+Longest Word:          containerization (16 characters)
+Most Frequent Word:    software (appears 21 times)
+
+----------------------------------------
+TOP 10 MOST FREQUENT WORDS
+----------------------------------------
+ 1. software             21
+ 2. development          17
+ 3. like                 11
+ 4. code                 9
+ 5. developers           8
+ 6. applications         6
+ 7. how                  6
+ 8. systems              6
+ 9. languages            5
+10. modern               5
+
+----------------------------------------
+WORD LENGTH DISTRIBUTION
+----------------------------------------
+ 3 characters: 28 words
+ 4 characters: 58 words
+ 5 characters: 65 words
+ 6 characters: 57 words
+ 7 characters: 66 words
+ 8 characters: 89 words
+ 9 characters: 50 words
+10 characters: 51 words
+11 characters: 54 words
+12 characters: 29 words
+13 characters: 17 words
+14 characters: 7 words
+15 characters: 4 words
+16 characters: 1 words
+
+----------------------------------------
+STOP WORDS EXCLUDED
+----------------------------------------
+The following stop words were excluded from analysis:
+been, be, for, had, do, that, are, and, does, of, have, from, has, on, which, a, in, was, this, its, is, it, an, the, with, as, at, were, to, did
+
+============================================================
+                 END OF REPORT
+============================================================
