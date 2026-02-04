@@ -9,7 +9,7 @@ This system calculates payroll for three types of employees with progressive tax
 ## Project Structure
 
 ```
-D:\Uptime claude ass1\
+D:\IshaHarneAssignments\IshaHarneAssignment1
 ├── README.md
 ├── pom.xml                                    # Maven config (optional)
 ├── out/                                       # Compiled classes
