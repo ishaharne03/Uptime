@@ -57,7 +57,7 @@ java -cp out com.payroll.SimpleTestRunner
 ### 5. Run Everything (Single Command)
 
 ```bash
-cd "D:\IshaHarneAssignment1" && javac -d out src/main/java/com/payroll/*.java src/test/java/com/payroll/SimpleTestRunner.java && java -cp out com.payroll.SimpleTestRunner && java -cp out com.payroll.PayrollDemo
+cd "IshaHarneAssignment1" && javac -d out src/main/java/com/payroll/*.java src/test/java/com/payroll/SimpleTestRunner.java && java -cp out com.payroll.SimpleTestRunner && java -cp out com.payroll.PayrollDemo
 ```
 
 ## Requirements Fulfillment
